@@ -1,20 +1,12 @@
-# <h1>
+# <h1 align="center">
   Hi there 
-  <span style="display:inline-block; animation: wave 1.5s infinite;">
-    👋
-  </span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
+<p align="center">
+  I'm Aishwarya Kanani
+</p>
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  20% { transform: rotate(14deg); }
-  40% { transform: rotate(-8deg); }
-  60% { transform: rotate(14deg); }
-  80% { transform: rotate(-4deg); }
-  100% { transform: rotate(0deg); }
-}
-</style> Hi, I'm Aishwarya Kanani  
+ Hi, I'm Aishwarya Kanani  
 
 📍 ON, Canada  
 💼 Data Consultant | Power BI Developer  
